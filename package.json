@@ -1,0 +1,18 @@
+{
+  "name": "programming3-master",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tiko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "p5": "^0.7.2",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
